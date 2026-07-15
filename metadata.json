@@ -1,0 +1,6 @@
+{
+  "name": "Smart Agriculture Collection and Management System",
+  "description": "An administrative capstone portal for agricultural produce collection, farmer management, inventory tracking, orders, payments, and Oracle database auditing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
